@@ -133,7 +133,7 @@ dfn {
  */
 
 h1 {
-  margin-left: 0.67em 0;
+  margin-left: 0.67em 2;
   font-size: 2em;
 }
 
@@ -460,6 +460,7 @@ header h1 {
   width: 100px;
   margin-top: 0;
   margin-bottom: 0.2em;
+  margin-left:5px;
   font-size: 35px;
   font-weight: Bold;
   line-height: 1;
