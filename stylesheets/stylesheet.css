@@ -455,11 +455,11 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
-header h6 {
-  width: 540px;
+header h1 {
+  width: 100px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 72px;
+  font-size: 26px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
